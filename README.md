@@ -76,7 +76,7 @@ Cover the basics of web development, including HTML, CSS, JavaScript, and browse
     <h1>  Beginner Level </h1>
   <hr>
   <h4>
-<a href="https://youtube.com"> 
+<a href="https://www.youtube.com/playlist?list=PLVMqeUndPM9-ydOUDMGP9bUhaMTt_728Y"> 
     First of all,<br> you can explore the backend concepts you’ll encounter throughout your learning journey
 </a>
   </h4>
