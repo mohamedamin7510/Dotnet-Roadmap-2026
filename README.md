@@ -878,6 +878,10 @@ Dives into design patterns,Covers the Model-View-Controller (MVC) architectural 
 
 <h1> Advanced Level </h1>
 
+
+ <h5>   <a href="https://youtu.be/V3ZPPPKEipA?si=lI7-Ppj-idldxwkX">From here,<br> you should be certain about these things. They’re necessary for you, and any issues with them can be fixed in parallel with your projects and advanced-level learning</a></h5>
+
+<hr>
 <p>Objective:
 
 Dive into advanced  topics, backend optimizations, and advanced database techniques.</p>
